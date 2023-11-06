@@ -37,5 +37,7 @@ This assumes that you have soldered header onto a Pico W, and put it in the brea
 PiicoDev is owned by Core Electronics Australia. <br>
 Raspberry Pi and Raspberry Pi Pico are owned by Raspberry Pi Foundation in the UK. <br>
 Altronics is owned by Altronics (r/technicallythetruth) <br>
+I thank Tony Allan for the `weather-au` package: https://github.com/tonyallan/weather-au
+
 
 Any Enquires: <a href="mailto:andrewisabnormal@gmail.com">Email Me!</a><br>
