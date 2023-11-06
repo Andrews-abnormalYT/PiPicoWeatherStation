@@ -12,7 +12,9 @@ Requirement: BME280 Sensor. Get it at Altronics: <a href="https://www.altronics.
 
 Optional and code not provided: Wind speed and rain measurer<br>
 
+## Software
 You are required to have MicroPython installed onto your Pico W. <a href="https://micropython.org/resources/firmware/RPI_PICO_W-20231005-v1.21.0.uf2">Click here</a> to download a MicroPython uf2 for a Pico W. <br>
+
 ### Pip packages
 • PiicoDev (pip install piicodev, or install it via thonny) <br>
 • Http server <br>
